@@ -1,0 +1,1 @@
+import{_ as o,c as t,a as s,o as n}from"./index-CbTVxLxN.js";const c={},r={class:"contentBody"};function a(_,e){return n(),t("div",r,e[0]||(e[0]=[s("h1",null,"我的",-1)]))}const l=o(c,[["render",a]]);export{l as default};
