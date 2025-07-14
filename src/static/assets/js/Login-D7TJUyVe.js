@@ -1,0 +1,1 @@
+import{_ as n,c as o,a as t,o as r}from"./index-CbTVxLxN.js";const s={};function a(c,e){return r(),o("div",null,e[0]||(e[0]=[t("h1",null,"the is Login",-1)]))}const i=n(s,[["render",a]]);export{i as default};
